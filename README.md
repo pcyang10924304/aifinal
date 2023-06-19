@@ -15,7 +15,6 @@
 2.srt檔案改雲端硬碟中的.srt檔案
 # 參考資料
 https://steam.oxxostudio.tw/category/python/example/video-srt.html\
-
 https://vocus.cc/article/64468d92fd8978000115c6e1
 
 
